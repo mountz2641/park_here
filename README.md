@@ -7,7 +7,7 @@ Developer
             Faculty of Engineering
              Kasetsart University
 
-็Hardware
+Hardware
     1 Practicum Board
     1 Switch
     1 Ribbon Cable
@@ -17,8 +17,10 @@ Developer
 
 Library
     AVR Libc    : http://www.nongnu.org/avr-libc/
-    AVR-GCC     : http://www.nongnu.org/avr-libc/user-manual/group__util__delay.html
     tkinter     : https://docs.python.org/2/library/tkinter.html
+
+GitHub
+
 
 Folder : firmware
 Contain code for practicum board.
